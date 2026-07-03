@@ -180,3 +180,11 @@
 2026-07-01 23:19:41:1941 [31merror[39m: [31mUNCAUGHT EXCEPTION! Server shutting down... Error: listen EADDRINUSE: address already in use :::5000[39m
 2026-07-01 23:23:06:236 [31merror[39m: [31mUNCAUGHT EXCEPTION! Server shutting down... Error: listen EADDRINUSE: address already in use :::5000[39m
 2026-07-01 23:25:15:2515 [31merror[39m: [31mUNCAUGHT EXCEPTION! Server shutting down... Error: listen EADDRINUSE: address already in use :::5000[39m
+2026-07-01 23:42:13:4213 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/profiles/users/role/ADMIN - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:42:14:4214 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/profiles/users/role/ADMIN - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:42:14:4214 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/profiles/admins - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:42:14:4214 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/profiles/admins - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:57:48:5748 [31merror[39m: [31m[API ERROR] Path: /api/v1/auth/logout - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:57:48:5748 [31merror[39m: [31m[API ERROR] Path: /api/v1/auth/refresh-token - Msg: Refresh token is missing[39m
+2026-07-01 23:57:54:5754 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/users - Msg: Invalid or expired access token: jwt expired[39m
+2026-07-01 23:57:54:5754 [31merror[39m: [31m[API ERROR] Path: /api/v1/super-admin/users - Msg: Invalid or expired access token: jwt expired[39m
